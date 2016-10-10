@@ -1,0 +1,89 @@
+*{
+	box-sizing:border-box;
+	
+	}
+
+.container-fluid{
+	
+	background-color:gray;
+	display:table;
+	margin-top:150px;
+	}
+	
+.row{
+	 width:100%;
+	 display:table;
+	  margin:0px auto;
+	}
+
+h3{
+	text-align:center;
+	color:white;
+	font-size:30px;
+	font-family:Arial, Helvetica, sans-serif;
+	
+	}
+	
+.row div{
+	   
+	   border:1px solid blue;
+	 width:31.33%;
+	 float:left;
+	 margin-top:30px;
+	 margin-bottom:20px;
+	 margin-left:1%;
+	 margin-right:1%;
+	
+
+	
+	}
+	
+.first{
+	 background-color:#09F;
+	
+	}
+	
+.second{
+	 background-color:#903;
+	
+	}	
+	
+.third{
+	 background-color:#CCC;
+	
+	}	
+h4{
+	margin-top:0px;
+	float:right;
+	border-bottom:1px solid black;
+	border-left:1px solid black;
+	width:150px;
+	text-align:center;
+	
+	}
+.chelsea{
+	
+	background-color:blue;
+	}
+.tottenham{
+	background-color:red;
+	}
+	
+.liverpool{
+	background-color:white;
+	}
+	
+.p1{
+	padding:10px;
+	margin-top:20px;
+	}						
+	
+.p2{
+	padding:10px;
+	margin-top:20px;
+	}						
+	
+.p3{
+	padding:10px;
+	margin-top:20px;
+	}								
